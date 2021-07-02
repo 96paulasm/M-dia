@@ -1,13 +1,13 @@
-algoritmo "semnome"
+algoritmo "MediaDoisNumeros"
 var
 n1, n2: inteiro
 media: real
 
 inicio
-escreva ("Digite o primeiro número: ")
+escreva ("Digite o primeiro nÃºmero: ")
 leia (n1)
-escreva ("Digite o segundo número: ")
+escreva ("Digite o segundo nÃºmero: ")
 leia (n2)
 media <- (n1+n2)/2
-escreva ("A média de ambos os números é de: ", media)
+escreva ("A mÃ©dia de ambos os nÃºmeros Ã© de: ", media)
 fimalgoritmo
